@@ -1,0 +1,9 @@
+Disciplina Programação Orientada a Objetos
+Alunos: Vinícius Nolêto, Ian Felipe e Felipe Rubens
+
+
+FORMA DE UTILIZAR
+
+1° Dê "run" no arquivo "Estrutura.java" e estruture a empresa.
+2° Interaja com a empresa criada em "Interacao.java"
+3° Emita um relatório em "Relatorio.java"
